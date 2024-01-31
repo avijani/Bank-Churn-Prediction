@@ -1,7 +1,7 @@
-# Bank CHurn Prediction Analysis and Visualization
-# BANK CHURN PREDICTION
+# Bank Churn Prediction Analysis and Visualization
 
-## BACKGROUND AND CONTEXT 
+
+## SUMMARY
 
 Businesses like banks that provide several services have to keep frequent check on a major problem of churn rate or rate of attrition.
 Now what does the term CHURN RATE denote: it is the rate at which customers stop doing business with an entity. It is most commonly expressed as the percentage of service subscribers who discontinue their subscriptions within a given time period.
