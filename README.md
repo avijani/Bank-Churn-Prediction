@@ -153,3 +153,16 @@ Result:
       
 2. Based on the mean value and the standard deviation value, we can conclude that our ROC-AUC score does not deviate much, so we are not suffering from the overfitting issue.
  <img width="284" alt="Screenshot 2023-08-14 at 4 35 07 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/e9d1901e-a9a0-469b-a6d9-a8f456759f3e">
+
+
+3. Using K-Nearest Neighbor Model:
+<img width="604" alt="Screenshot 2023-08-14 at 4 36 34 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/33a7e71b-129d-46df-9694-75aebd82fa76">
+
+
+4. Using Gradient Boosting Classifier:
+<img width="584" alt="Screenshot 2023-08-14 at 4 36 58 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/1b7b886b-e192-410c-add8-2ba1a14a135f">
+
+5. Using Adaptive Boosting Model:
+<img width="582" alt="Screenshot 2023-08-14 at 4 37 17 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/8b9c9725-7640-4605-bc17-9636d2cdb5f3">
+
+
