@@ -178,6 +178,4 @@ Result:
 6. Using Adaptive Boosting Model:
 <img width="582" alt="Screenshot 2023-08-14 at 4 37 17 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/8b9c9725-7640-4605-bc17-9636d2cdb5f3">
 
-7. Shap values (Shapley Additive explanations) is a game theoretic approach to explain the output of any machine learning model. In below plot we can see that why a particual customer's churning probability is less than baseline value and which features are causing them.
-<img width="1007" alt="Screenshot 2023-08-14 at 4 37 49 PM" src="https://github.com/Tejalp99/Bank_Churn-Prediction/assets/115590863/f7d2965a-cb74-4a0f-ad2c-32a2b2084e28">
 
